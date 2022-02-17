@@ -1,0 +1,29 @@
+
+	.kutu {width:200px;
+       height:100%;
+      background-color:#FFFF00;
+  text-align:center;     
+	  outline-style:outset;
+       outline-width:3px; 
+       	ont-face:'verdana'; 
+	     outline-color:red;  
+	  margin-left:8px;
+	  color:red;
+	  } 
+  .kutu2 {
+    border:10px solid #800080;
+    width:200px;
+    height :300px;}
+
+.kutu3{position: relative; top: 220px ;text-align:center;
+margin-left:37%;
+margin-right:auto;
+text-overflow:ellipsis;
+width:250px;
+       height:45px;
+      background-color:#FFFF00;
+	  outline-style:outset;
+       outline-width:3px; 
+       	ont-face:'verdana'; 
+	     outline-color:red; 
+	  color:red;}
