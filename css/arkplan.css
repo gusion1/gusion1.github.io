@@ -21,17 +21,38 @@ margin-right:auto;
 text-overflow:ellipsis;
 width:250px;
        height:45px;
-      background-color:#FFFF00;
+      background-color:pink;
 	  outline-style:outset;
        outline-width:3px; 
        	ont-face:'verdana'; 
 	     outline-color:red; 
-	  color:red;}
-	@media (max-width:400px){
-
+	  color:black;}
+	
+@media (max-width:400px){
   .kutu2 {width:106px;height :160px;}
-    .kutu3{top: 120px ;margin-left:25%;}
+    .kutu3{top: 120px ; margin-left:25%;}
     .kutu{width: 100px}
     .w3-responsive{overflow-x:auto;margin-top:80px;margin-bottom:-60px}
 .w3-responsive2{overflow-x:auto;margin-top:80px;}
+}
+body{background: #232323;}
+.f1{width:30%;
+height:100%;margin-right: 30px;float:right;
+margin-top : 40px;
+outline-width:6px; 
+outline-color: pink;
+outline-style:outset;
+}
+.baslik{
+margin-left:20%;
+      width:40%;
+
+background-color:#FFFF00;
+  text-align:center;     
+	  outline-style:outset;
+       outline-width:3px; 
+       	ont-face:'verdana'; 
+	     outline-color:red;  
+	  
+	  color:red;
 }
