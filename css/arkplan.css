@@ -32,4 +32,6 @@ width:250px;
   .kutu2 {width:106px;height :160px;}
     .kutu3{top: 120px ;margin-left:25%;}
     .kutu{width: 100px}
+    .w3-responsive{overflow-x:auto;margin-top:80px;margin-bottom:-60px}
+.w3-responsive2{overflow-x:auto;margin-top:80px;}
 }
