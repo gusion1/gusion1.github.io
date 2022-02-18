@@ -1,5 +1,4 @@
-
-	.kutu {width:200px;
+.kutu {width:200px;
        height:100%;
       background-color:#FFFF00;
   text-align:center;     
@@ -7,11 +6,12 @@
        outline-width:3px; 
        	ont-face:'verdana'; 
 	     outline-color:red;  
-	  margin-left:8px;
+	  margin-left:19px;
 	  color:red;
 	  } 
   .kutu2 {
     border:10px solid #800080;
+    margin-left:10px;
     width:200px;
     height :300px;}
 
@@ -27,3 +27,9 @@ width:250px;
        	ont-face:'verdana'; 
 	     outline-color:red; 
 	  color:red;}
+	@media (max-width:400px){
+
+  .kutu2 {width:106px;height :160px;}
+    .kutu3{top: 120px ;margin-left:25%;}
+    .kutu{width: 100px}
+}
