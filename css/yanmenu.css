@@ -153,3 +153,8 @@ a:hover
 {
   transform: none;
 }  
+@media (max-width:450px){
+#menuToggle{top: 30px;margin-left: 25px;}
+#menu{width: 100px;}
+
+}

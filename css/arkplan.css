@@ -31,15 +31,14 @@ width:250px;
 	
 @media (max-width:400px){
   .kutu2 {width:106px;height :160px;}
-    .kutu3{top: 120px ; margin-left:25%;}
-    .kutu{width: 100px}
-    .w3-responsive{overflow-x:auto;margin-top:80px;margin-bottom:-60px}
-.w3-responsive2{overflow-x:auto;margin-top:80px;}
+    .kutu3{top: 60px ; margin-left:20%;}
+    .kutu{width: 100px;margin-left:17%;}
+.baslik{font-size:25px;}
 }
 body{background: #232323;}
 .f1{width:30%;
 height:100%;margin-right: 4%;float:right;
-margin-top : 5%;
+margin-top : 7%;
 outline-width:6px; 
 outline-color: pink;
 outline-style:outset;
