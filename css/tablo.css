@@ -1,7 +1,7 @@
 .w3-responsive{overflow-x:auto;margin-right:0;margin-top:200px;margin-bottom:-150px}
 .w3-responsive2{overflow-x:auto;margin-right:0;margin-top:200px;margin-bottom:100px}
 .w3-table-all{border-collapse:collapse;border:1px solid #ccc;border-bottom:1px solid #ddd;padding:8px 8px;display:table-cell;background :pink;}
-@media (max-width:450px){
+@media (max-width:500px){
 .w3-responsive{overflow-x:auto;margin-top:-20px;margin-bottom:-60px}
 .w3-responsive2{overflow-x:auto;margin-top:-20px;}
 }

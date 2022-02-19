@@ -29,7 +29,7 @@ width:250px;
 	     outline-color:red; 
 	  color:black;}
 	
-@media (max-width:400px){
+@media (max-width:500px){
   .kutu2 {width:106px;height :160px;}
     .kutu3{top: 60px ; margin-left:20%;}
     .kutu{width: 100px;margin-left:17%;}
