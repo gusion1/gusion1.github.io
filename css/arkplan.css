@@ -6,14 +6,15 @@
        outline-width:3px; 
        	ont-face:'verdana'; 
 	     outline-color:red;  
-	  margin-left:19px;
+	  margin-left:9%;
 	  color:red;
 	  } 
   .kutu2 {
     border:10px solid #800080;
-    margin-left:10px;
+    margin-left:10px ;
     width:200px;
     height :300px;}
+    
 
 .kutu3{position: relative; top: 220px ;text-align:center;
 margin-left:37%;
@@ -37,8 +38,8 @@ width:250px;
 }
 body{background: #232323;}
 .f1{width:30%;
-height:100%;margin-right: 30px;float:right;
-margin-top : 40px;
+height:100%;margin-right: 4%;float:right;
+margin-top : 5%;
 outline-width:6px; 
 outline-color: pink;
 outline-style:outset;
