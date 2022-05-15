@@ -1,5 +1,0 @@
-body{background:#8b008b;}
-.arkaplan{outline-style: outset ;background: #f0f8ff ;outline-width:10px; outline-color: #f0f8ff ;  width:70%  ;margin-left:auto;margin-right:auto;margin-top:20%;}
-iframe {height:360px; width: 100%;}
-@media (max-width:500px){
-	iframe {height:250px;}}
